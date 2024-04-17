@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nguye\\OneDrive\\Máy tính\\PROJECT_PRN211\\project\\project.csproj": {}
+    "C:\\Users\\nguye\\OneDrive\\Máy tính\\PRN_Project\\PROJECT_PRN211\\project\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nguye\\OneDrive\\Máy tính\\PROJECT_PRN211\\project\\project.csproj": {
+    "C:\\Users\\nguye\\OneDrive\\Máy tính\\PRN_Project\\PROJECT_PRN211\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PROJECT_PRN211\\project\\project.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PRN_Project\\PROJECT_PRN211\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PROJECT_PRN211\\project\\project.csproj",
+        "projectPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PRN_Project\\PROJECT_PRN211\\project\\project.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PROJECT_PRN211\\project\\obj\\",
+        "outputPath": "C:\\Users\\nguye\\OneDrive\\Máy tính\\PRN_Project\\PROJECT_PRN211\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
